@@ -141,4 +141,4 @@ For any inquiries, please reach out to:
 
 ## Contributors
 
-[![Supreeth Mysore Venkatesh](_repo_data/supreethmv.jpg)](www.supreethmv.com)
+[![Supreeth Mysore Venkatesh](_repo_data/supreethmv.jpg)](https://www.supreethmv.com)
