@@ -100,7 +100,6 @@ Explore the different encoding methods by running the provided Jupyter notebooks
 </div>
 
 ---
----
 
 
 - `pge_experiment.ipynb`: Experiments with **Parametric Gate Encoding (PGE)**.
