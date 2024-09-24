@@ -17,16 +17,14 @@
 
 Welcome to **NISQ-Seg**, the official repository for the paper **"Qubit-efficient Variational Quantum Algorithms for Image Segmentation"**, accepted at the Quantum Computing and Engineering 2024 (QCE'24) conference by IEEE. This repository provides the full pipeline for reproducing the experimental results and demonstrations of the three primary encoding methods introduced in the paper:
 
+<div align="center">
+  <img src="_repo_data/pipeline_overview.png" alt="VQA Segmentation Overview" width="700">
+</div>
+
+
 1. **Parametric Gate Encoding (PGE)**
 2. **Ancilla Basis Encoding (ABE)**
 3. **Adaptive Cost Encoding (ACE)**
-<div align="center">
-  <img src="_repo_data/example_2x2.jpg" alt="VQA Segmentation Overview" width="700">
-</div>
-
-<div align="center">
-  <img src="_repo_data/ACE_example.jpg" alt="VQA Segmentation Overview" width="700">
-</div>
 
 
 These quantum techniques are optimized for **Noisy Intermediate-Scale Quantum (NISQ)** devices and demonstrate efficient qubit usage for **graph-based image segmentation** tasks.
@@ -96,9 +94,22 @@ The dependencies include essential quantum libraries (like Qiskit), optimization
 Explore the different encoding methods by running the provided Jupyter notebooks:
 
 - `tutorial.ipynb`: A walkthrough of the image segmentation pipeline for a 2x2 image.
+
+<div align="center">
+  <img src="_repo_data/example_2x2.jpg" alt="VQA Segmentation Overview" width="700">
+</div>
+
+---
+---
+
+
+- `pge_experiment.ipynb`: Experiments with **Parametric Gate Encoding (PGE)**.
 - `abe_experiment.ipynb`: Experiments with **Ancilla Basis Encoding (ABE)**.
 - `ace_experiment.ipynb`: Experiments with **Adaptive Cost Encoding (ACE)**.
-- `pge_experiment.ipynb`: Experiments with **Parametric Gate Encoding (PGE)**.
+
+<div align="center">
+  <img src="_repo_data/ACE_example.jpg" alt="VQA Segmentation Overview" width="700">
+</div>
 
 ---
 
