@@ -45,7 +45,6 @@ NISQ-Seg/
 │   ├── pge_experiment.ipynb          # PGE experiments and results
 │   ├── paper_figures.ipynb           # For generating paper figures
 │   ├── read_results.ipynb            # Parsing and analyzing results
-│   └── tutorial.ipynb                # Full pipeline tutorial for 2x2 image
 │
 ├── src/
 │   ├── __init__.py                   # Init file for encodings and utilities
@@ -65,7 +64,8 @@ NISQ-Seg/
 │
 ├── README.md                         # Project documentation (you're reading this!)
 ├── requirements.txt                  # Python dependencies
-└── LICENSE                           # License (MIT)
+└── LICENSE                           # License (GNU LGPL2.1)
+└── tutorial.ipynb                # Full pipeline tutorial for 2x2 image
 ```
 
 ---
