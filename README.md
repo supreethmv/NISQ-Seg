@@ -75,7 +75,7 @@ NISQ-Seg/
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-repo/NISQ-Seg.git
+git clone https://github.com/supreethmv/NISQ-Seg.git
 cd NISQ-Seg
 ```
 
