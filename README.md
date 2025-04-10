@@ -1,11 +1,12 @@
 
-# **NISQ-Seg: Qubit-efficient Variational Quantum Algorithms for Image Segmentation**
+# **NISQ-Seg: Qubit-Efficient Variational Quantum Algorithms for Image Segmentation**
 
-[![Paper DOI](https://img.shields.io/badge/arXiv-2405.14405-orange)](https://doi.org/10.48550/arXiv.2405.14405)  
+[![Paper DOI](https://img.shields.io/badge/DOI-10.1109/QCE60285.2024.00059-orange)](https://doi.org/10.1109/QCE60285.2024.00059)  
+[![arXiv](https://img.shields.io/badge/arXiv-2405.14405-green)](https://doi.org/10.48550/arXiv.2405.14405)  
 [![Conference](https://img.shields.io/badge/Conference-QCE'24-blue)](https://qce.quantum.ieee.org/2024/)  
 [![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL%20v2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)  
 [![LinkedIn: SupreethMV](https://img.shields.io/badge/LinkedIn-Supreeth%20Mysore%20Venkatesh-blue)](https://www.linkedin.com/in/supreethmv/)  
-[![Website: SupreethMV](https://img.shields.io/badge/Website-supreethmv.com-brightgreen)](https://www.supreethmv.com)
+[![Website: SupreethMV](https://img.shields.io/badge/Website-www.supreethmv.com-brightgreen)](https://www.supreethmv.com)
 
 <div align="center">
   <img src="_repo_data/VQA_segmentation_overview.jpg" alt="VQA Segmentation Overview" width="700">
