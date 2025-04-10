@@ -117,12 +117,17 @@ Explore the different encoding methods by running the provided Jupyter notebooks
 If you find this code useful in your research, please cite the following paper:
 
 ```bibtex
-@article{venkatesh2024qubit,
-  title={Qubit-efficient Variational Quantum Algorithms for Image Segmentation},
+@INPROCEEDINGS{10821431,
   author={Venkatesh, Supreeth Mysore and Macaluso, Antonio and Nuske, Marlon and Klusch, Matthias and Dengel, Andreas},
-  journal={arXiv preprint arXiv:2405.14405},
-  year={2024}
-}
+  booktitle={2024 IEEE International Conference on Quantum Computing and Engineering (QCE)}, 
+  title={Qubit-Efficient Variational Quantum Algorithms for Image Segmentation}, 
+  year={2024},
+  volume={01},
+  number={},
+  pages={450-456},
+  keywords={Training;Image segmentation;Quantum algorithm;Scalability;Semantics;Qubit;Quantum mechanics;Transforms;Encoding;Quantum circuit;Quantum algorithms;variational circuits;image segmentation;combinatorial optimization},
+  doi={10.1109/QCE60285.2024.00059}
+  }
 ```
 
 ---
